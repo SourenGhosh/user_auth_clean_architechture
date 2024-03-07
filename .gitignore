@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+**/*.ipynb_checkpoints/
+*.log
+config/sqlite/tmp_dbs/tmp.db
+FastApiCleanBackend.egg-info/*
